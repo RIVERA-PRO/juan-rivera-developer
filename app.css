@@ -55,7 +55,7 @@ header{
 	background: #18f0ff19;
 	padding: 23px 13%;
 	transition: all .40s ease;
-    box-shadow: 0 8px 32px rgb(2, 4, 24);
+    /*box-shadow: 0 8px 32px rgb(2, 4, 24);*/
     border-right: 2px solid rgba(255, 255, 255, .09);
     backdrop-filter: blur(6px);
     -webkit-backdrop-filter: blur(6px);
@@ -426,7 +426,6 @@ span{
     background-image: url(./img/mapa.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
     height: 40vh;
     display: flex;
     justify-content: center;
