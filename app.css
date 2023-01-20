@@ -527,7 +527,7 @@ footer .redes-sociales a{
 		position: absolute;
 		top: 100%;
 		right: -100%;
-		width: 50vh;
+		width: 50%;
 		height: 110vh;
         background: linear-gradient(to right,#18f0ff9d, #d103ff71);
 		display: flex;
